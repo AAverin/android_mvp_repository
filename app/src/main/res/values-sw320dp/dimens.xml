@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_scroll_center_margin">50dp</dimen>
+    <dimen name="login_image_width">120dp</dimen>
+    <dimen name="login_image_height">120dp</dimen>
+
+</resources>

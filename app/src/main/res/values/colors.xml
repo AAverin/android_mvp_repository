@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/green</color>
+    <color name="colorPrimaryDark">@color/green_dark</color>
+    <color name="colorAccent">#FF5A00</color>
+
+
+    <color name="c_text_dark_primary">#444444</color>
+    <color name="c_text_dark_secondary">#777777</color>
+    <color name="c_text_dark_disabled">#cccccc</color>
+    <color name="c_text_dark_divider">#cccccc</color>
+    <color name="c_text_light_primary">#ffffff</color>
+    <color name="c_text_light_secondary">#f3f3f3</color>
+    <color name="c_text_light_disabled">#f3f3f3</color>
+    <color name="c_text_light_divider">#ffffff</color>
+
+
+    <color name="green">#99CA3C</color>
+    <color name="green_dark">#7da518</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="icon_width">48dp</dimen>
+    <dimen name="icon_height">48dp</dimen>
+    <dimen name="icon_padding">4dp</dimen>
+
+    <dimen name="icon_small_width">32dp</dimen>
+    <dimen name="icon_small_height">32dp</dimen>
+    <dimen name="icon_small_padding">4dp</dimen>
+
+    <dimen name="button_min_height">36dp</dimen>
+    <dimen name="button_min_width">64dp</dimen>
+    <dimen name="padding_button">8dp</dimen>
+
+    <dimen name="margin_card">8dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_left">@dimen/margin</dimen>
+    <dimen name="margin_right">@dimen/margin</dimen>
+    <dimen name="margin_dialog_content">24dp</dimen>
+    <dimen name="margin_dialog_content_small">16dp</dimen>
+    <dimen name="margin_left_dialog">@dimen/margin_dialog_content</dimen>
+    <dimen name="margin_right_dialog">@dimen/margin_dialog_content</dimen>
+    <dimen name="margin_buttons_row">8dp</dimen>
+    <dimen name="margin_button_side">30dp</dimen>
+    <dimen name="margin_dialog_title">20dp</dimen>
+    <dimen name="buttons_row_height">52dp</dimen>
+    <dimen name="spacing_content_vertical">8dp</dimen>
+    <dimen name="list_item">72dp</dimen>
+    <dimen name="sub_item">56dp</dimen>
+    <dimen name="toolbar">56dp</dimen>
+    <dimen name="edittext">48dp</dimen>
+
+    <!-- screen speicific dimentions -->
+    <dimen name="login_scroll_center_margin">100dp</dimen>
+
+    <dimen name="login_image_width">200dp</dimen>
+    <dimen name="login_image_height">200dp</dimen>
+</resources>
